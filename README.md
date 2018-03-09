@@ -6,8 +6,8 @@
 
 ### Goals : 
 
-* Promote and Educate people about  
-* Hands on Rust
+* Promote and Educate people about authentication & authorisation. 
+* Learn about the different concepts that make up modern identity
 * *Organizers* are accountable to clarify queries on the day of event. 
 
 ### Prerequisite 
