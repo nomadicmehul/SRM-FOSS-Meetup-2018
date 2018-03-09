@@ -6,7 +6,7 @@
 
 ### Goals : 
 
-* Promote and Educate people about authentication & authorisation. 
+* Promote and Educate people about authentication & authorization. 
 * Learn about the different concepts that make up modern identity
 * *Organizers* are accountable to clarify queries on the day of event. 
 
