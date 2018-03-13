@@ -15,7 +15,7 @@
 * Open-Minded 
 
 ### Community Channels: 
-[![Follow RustHacks at https://twitter.com/auth0](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40auth0)](https://twitter.com/auth0)
+[![Follow Auth0 at https://twitter.com/auth0](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40auth0)](https://twitter.com/auth0)
 
 Feel free to ping me anytime on [Telegram](http://telegram.me/rowdymehul) or [Twitter](http://twitter.com/rowdymehul) and I’m happy to chat with you.
 
