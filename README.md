@@ -4,6 +4,8 @@
 * Talk title : Introduction to Modern Identity
 * Description : Modern identity is a lot more than just the login screen. In this talk the audience learned about the different concepts that make up modern identity.
 
+Content credits : [Ado Kukic](https://twitter.com/KukicAdo)
+
 ### Goals : 
 
 * Promote and Educate people about authentication & authorization. 
